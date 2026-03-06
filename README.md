@@ -2,7 +2,7 @@
 
 **AI/LLM Application Engineer** · Industrial Engineering @ University of Toronto (AI minor, May 2027)  
 Currently building AI systems for DTC brands 🚀
-
+https://huatan.vercel.app/
 ---
 
 ### 🔭 What I'm building
